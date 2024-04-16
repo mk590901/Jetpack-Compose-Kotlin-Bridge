@@ -1,6 +1,6 @@
 # Jetpack Compose 🔄 Kotlin interaction
 
-_The repository contains an application that implements a bridge between @Composite code and Kotlin objects that implement business logic without any direct connection with the GUI_
+_The repository contains an application that implements a bridge between @Composable code and Kotlin objects that implement business logic without any direct connection with the GUI_
 
 ## Introduction
 
